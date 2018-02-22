@@ -1,4 +1,5 @@
 <?php
+
 namespace CodeCloud\Bundle\ShopifyBundle\Twig\Extension;
 
 use CodeCloud\Bundle\ShopifyBundle\Security\HmacSignature;
